@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Dragon.sol": "Enum"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Dragon.sol": {
+			"keccak256": "0x1665b78d849db12abc1918ce3d281dd4549f539da1d4a63ae8367374fe815e00",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b5bbbb52cb03cbef284e4afc7247cf12a73c5488fe63ecb6ea599afcf21fa4f2",
+				"dweb:/ipfs/QmYmCcPRHNYTi7eAeuQgZzSoot9ndkAJZ8DnSa2rofYyZS"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					}
+				],
+				"name": "Name",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "run",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "run2",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Hello.sol": "Lion"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Hello.sol": {
+			"keccak256": "0x732a148f1b363dba92f3bd8c9d7f59ee7b356f7c6ee44a147e3e9f7e03bf5986",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://31a4b20277cdd4a4cf4b809c685d7fdc4be1b131bcf8feb11e21b927f6875eea",
+				"dweb:/ipfs/QmZ23YgfwkQKvgos9JNdcFS5bFnvkHi8CjT1TJ6Na1TQvZ"
+			]
+		}
+	},
+	"version": 1
+}

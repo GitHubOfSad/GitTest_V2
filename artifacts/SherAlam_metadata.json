@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "User",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Hello.sol": "SherAlam"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Hello.sol": {
+			"keccak256": "0x176dfa07b1f8ae5f5b098b81408021a10134f983349fb64df30852fe522c6de4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://70e4de12b3dde0f5a457507aedeb33e076ca58625be2df2ce2adefbfa0912ddb",
+				"dweb:/ipfs/Qmb7Spha9Qjgi5xJ9XV9FMqSHtdsEWgm6yLBX4pcxe953U"
+			]
+		}
+	},
+	"version": 1
+}

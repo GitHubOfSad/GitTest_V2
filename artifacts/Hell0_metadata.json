@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "u1",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Dragon.sol": "Hell0"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Dragon.sol": {
+			"keccak256": "0x8f6c7d2d1bbff4da20e0f09449ae076699771a2b44b2e94db68bd89f8d70645b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c000853135d94fbaaef789263afbf6b12fee2b05df4680ec95ce0b02e7cb4499",
+				"dweb:/ipfs/QmXNpR4az6kWrRXevpZxrGGTPdd99K2P5fiGafohHPDXBT"
+			]
+		}
+	},
+	"version": 1
+}

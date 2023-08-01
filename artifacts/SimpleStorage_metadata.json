@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Dragon.sol": "SimpleStorage"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Dragon.sol": {
+			"keccak256": "0x6c916a4ecf7bf1668526de3951b304f4041f66716517512f7c47d88ecc1602f7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://55e81708ca102688d422470dfc13c50bc127aba1367ceaa31c410e0549b9c9a4",
+				"dweb:/ipfs/QmQ1L5wrPWgRQcQYeKH9YQ4BVuq7ZppoTVnfq8KroS7quo"
+			]
+		}
+	},
+	"version": 1
+}

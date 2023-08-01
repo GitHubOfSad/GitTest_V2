@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "TableOf5",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Dragon.sol": "TableOf5"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Dragon.sol": {
+			"keccak256": "0xa979acd9002d15238044a8b9cf1a2013ddfade855b9d2edc8f7ff1402fdc23d8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a60f861f76e6b09494b01fd2ecab7d9f54c72cdceffa816f5f25a9a9b3fe86e9",
+				"dweb:/ipfs/QmbhiBq2yjQPKbodhhWKhYRAL8usDPQyjMpc8X9tLBF57T"
+			]
+		}
+	},
+	"version": 1
+}

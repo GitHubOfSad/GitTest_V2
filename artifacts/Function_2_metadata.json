@@ -1,0 +1,106 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "call",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "call_2",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_u1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "_b1",
+						"type": "bool"
+					},
+					{
+						"internalType": "string",
+						"name": "_s1",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_u2",
+						"type": "uint256"
+					}
+				],
+				"name": "many_inputs",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Hello.sol": "Function_2"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Hello.sol": {
+			"keccak256": "0xea2e1072ef003117be59198f15f10892780f6dc9d886e2256e37b80709f35b0d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://77a034dab718a0e79e791c0e76c137431f5b4fd7fd1f3e378bd81a12354367cb",
+				"dweb:/ipfs/QmR1ERsPWZMmMmNb1heaGABTxQuX34c8Gcrf6ayNvmZFSp"
+			]
+		}
+	},
+	"version": 1
+}
